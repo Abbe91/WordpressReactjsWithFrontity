@@ -1,9 +1,9 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "b1544d34581351cef14f",
+  "hash": "d439a96894f8d5eb700a",
   "publicPath": "",
-  "outputPath": "/Users/Abbe/Downloads/wordpress header CMS/Frontity/my-first-frontity-project/build/static",
+  "outputPath": "/Users/Abbe/Downloads/wordpress header CMS/Frontity/WordpressReactjsWithFrontity/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
     "my-first-frontity-project": "my-first-frontity-project.module.js"
@@ -11,7 +11,7 @@
   "assets": [
     {
       "name": "list.module.js",
-      "size": 50356,
+      "size": 50420,
       "chunks": [
         "list"
       ],
@@ -23,7 +23,7 @@
     },
     {
       "name": "my-first-frontity-project.module.js",
-      "size": 7125944,
+      "size": 7125572,
       "chunks": [
         "my-first-frontity-project"
       ],
