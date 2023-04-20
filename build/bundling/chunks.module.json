@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "b1544d34581351cef14f",
+  "publicPath": "",
+  "outputPath": "/Users/Abbe/Downloads/wordpress header CMS/Frontity/my-first-frontity-project/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "my-first-frontity-project": "my-first-frontity-project.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 50356,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "my-first-frontity-project.module.js",
+      "size": 7125944,
+      "chunks": [
+        "my-first-frontity-project"
+      ],
+      "chunkNames": [
+        "my-first-frontity-project"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "my-first-frontity-project": {
+      "chunks": [
+        "my-first-frontity-project"
+      ],
+      "assets": [
+        "my-first-frontity-project.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "my-first-frontity-project",
+      "files": [
+        "my-first-frontity-project.module.js"
+      ]
+    }
+  ]
+}
