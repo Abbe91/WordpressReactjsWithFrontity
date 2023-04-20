@@ -16,8 +16,8 @@ const settings = {
             ["Home", "/"],
             ["Nature", "/category/nature/"],
             ["Travel", "/category/travel/"],
-            ["Japan", "/tag/japan/"],
-            ["About Us", "/about-us/"],
+            ["Japan", "/this-is-not-my-home/"],
+            ["About Us", "/about/"],
           ],
           featured: {
             showOnList: false,

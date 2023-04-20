@@ -2,3 +2,5 @@ node_modules
 build/
 *.module.js
 *.module.json
+*.chunks.module.json
+chunks.module.json

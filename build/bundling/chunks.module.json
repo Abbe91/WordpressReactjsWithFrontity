@@ -1,28 +1,14 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "585a2b4c0881ffdfa95f",
+  "hash": "e985b16f1ff10ce69336",
   "publicPath": "",
   "outputPath": "/Users/Abbe/Downloads/wordpress header CMS/Frontity/WordpressReactjsWithFrontity/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "my-first-frontity-project": [
-      "my-first-frontity-project.module.js",
-      "my-first-frontity-project.751362fc80946854990e.hot-update.js"
-    ]
+    "my-first-frontity-project": "my-first-frontity-project.module.js"
   },
   "assets": [
-    {
-      "name": "751362fc80946854990e.hot-update.json",
-      "size": 67,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "hotModuleReplacement": true,
-        "immutable": true
-      },
-      "emitted": false
-    },
     {
       "name": "list.module.js",
       "size": 50420,
@@ -36,23 +22,8 @@
       "emitted": false
     },
     {
-      "name": "my-first-frontity-project.751362fc80946854990e.hot-update.js",
-      "size": 13112,
-      "chunks": [
-        "my-first-frontity-project"
-      ],
-      "chunkNames": [
-        "my-first-frontity-project"
-      ],
-      "info": {
-        "hotModuleReplacement": true,
-        "immutable": true
-      },
-      "emitted": false
-    },
-    {
       "name": "my-first-frontity-project.module.js",
-      "size": 7125572,
+      "size": 7133035,
       "chunks": [
         "my-first-frontity-project"
       ],
@@ -70,8 +41,7 @@
         "my-first-frontity-project"
       ],
       "assets": [
-        "my-first-frontity-project.module.js",
-        "my-first-frontity-project.751362fc80946854990e.hot-update.js"
+        "my-first-frontity-project.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -98,8 +68,7 @@
     {
       "id": "my-first-frontity-project",
       "files": [
-        "my-first-frontity-project.module.js",
-        "my-first-frontity-project.751362fc80946854990e.hot-update.js"
+        "my-first-frontity-project.module.js"
       ]
     }
   ]
