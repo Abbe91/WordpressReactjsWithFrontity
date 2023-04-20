@@ -1,14 +1,28 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "d439a96894f8d5eb700a",
+  "hash": "01f9a5cf218beb8c5dee",
   "publicPath": "",
   "outputPath": "/Users/Abbe/Downloads/wordpress header CMS/Frontity/WordpressReactjsWithFrontity/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "my-first-frontity-project": "my-first-frontity-project.module.js"
+    "my-first-frontity-project": [
+      "my-first-frontity-project.module.js",
+      "my-first-frontity-project.eeed5f15dbd0df8d235c.hot-update.js"
+    ]
   },
   "assets": [
+    {
+      "name": "eeed5f15dbd0df8d235c.hot-update.json",
+      "size": 67,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
     {
       "name": "list.module.js",
       "size": 50420,
@@ -19,6 +33,21 @@
         "list"
       ],
       "info": {},
+      "emitted": false
+    },
+    {
+      "name": "my-first-frontity-project.eeed5f15dbd0df8d235c.hot-update.js",
+      "size": 13112,
+      "chunks": [
+        "my-first-frontity-project"
+      ],
+      "chunkNames": [
+        "my-first-frontity-project"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
       "emitted": false
     },
     {
@@ -41,7 +70,8 @@
         "my-first-frontity-project"
       ],
       "assets": [
-        "my-first-frontity-project.module.js"
+        "my-first-frontity-project.module.js",
+        "my-first-frontity-project.eeed5f15dbd0df8d235c.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -68,7 +98,8 @@
     {
       "id": "my-first-frontity-project",
       "files": [
-        "my-first-frontity-project.module.js"
+        "my-first-frontity-project.module.js",
+        "my-first-frontity-project.eeed5f15dbd0df8d235c.hot-update.js"
       ]
     }
   ]
