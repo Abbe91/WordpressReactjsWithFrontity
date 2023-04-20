@@ -1,3 +1,4 @@
 node_modules
 build/
-.build/bundling
+*.module.js
+*.module.json
